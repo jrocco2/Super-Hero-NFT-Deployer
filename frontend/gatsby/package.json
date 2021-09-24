@@ -20,6 +20,7 @@
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
     "babel-plugin-styled-components": "^1.13.2",
+    "electron": "^15.0.0",
     "ethers": "^5.4.7",
     "framer-motion": "^4.1.17",
     "gatsby": "^3.13.1",
