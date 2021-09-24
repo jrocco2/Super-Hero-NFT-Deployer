@@ -1,0 +1,36 @@
+{
+  "name": "nft-deployer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NFT Deployer",
+  "author": "Joseph",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.15",
+    "@chakra-ui/react": "^1.6.8",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "babel-plugin-styled-components": "^1.13.2",
+    "ethers": "^5.4.7",
+    "framer-motion": "^4.1.17",
+    "gatsby": "^3.13.1",
+    "gatsby-plugin-image": "^1.14.0",
+    "gatsby-plugin-sharp": "^3.14.0",
+    "gatsby-plugin-styled-components": "^4.14.0",
+    "gatsby-source-filesystem": "^3.14.0",
+    "gatsby-transformer-sharp": "^3.14.0",
+    "ipfs-core": "^0.10.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.3.1"
+  }
+}
